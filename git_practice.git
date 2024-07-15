@@ -1,0 +1,7 @@
+echo "# git_practice" >>README.txt
+git init
+git add README.md
+git commit -m "first commit"
+git branch -m main
+git remote add origin https://github.com/  /git_practice.git
+push -u origin main
